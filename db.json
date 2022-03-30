@@ -1,0 +1,34 @@
+{
+    "hotels": [
+        {
+            "name": "The Luxury Collection Hotels & Resorts",
+            "address": "Janakpuri",
+            "id": 1
+        },
+        {
+            "name": "Hotel Kuntz",
+            "address": "South Campus",
+            "id": 2
+        },
+        {
+            "name": "Grand Gross Hotel",
+            "address": "East Noida",
+            "id": 3
+        },
+        {
+            "name": "Sweet Hotel",
+            "address": "Gurugram",
+            "id": 4
+        },
+        {
+            "name": "Chip Inn",
+            "address": "Rajouri Garden",
+            "id": 5
+        },
+        {
+            "name": "La Sky Boutique Hotel",
+            "address": "West Gate, BK",
+            "id": 6
+        }
+    ]
+}

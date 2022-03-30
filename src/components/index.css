@@ -1,0 +1,108 @@
+
+.auth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+.cont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+}
+
+.header{
+    text-align: center;
+}
+
+#green__button{
+    position: relative;
+    left: 50%;
+}
+
+.pic1{
+    text-align: left;
+    margin: 4rem 5rem;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.p1{
+    align-items: center;
+    padding: 3rem;
+}
+
+.pic2{
+    text-align: right;
+    margin: 4rem 5rem;
+    display: flex;
+    align-items: right;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.pic2 img{
+    text-align: right;
+    display: flex;
+    align-items: center;
+}
+
+.pic_left{
+    text-align: right;
+    display: flex;
+    align-items: center;
+}
+
+.footer{
+    display: flex;
+    padding-bottom: 3rem;
+    
+}
+
+.footer_container{
+    margin: 5rem 6.5rem; 
+    justify-content: center; 
+    align-items: center;
+    border-style: outset;
+    padding: 1rem 1rem;
+}
+
+.container{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.container_list{
+    display: block;
+    padding: 1rem;
+    margin: 2rem 4rem;
+    background: rgb(219, 216, 216);
+    width: 50%;
+}
+
+.footer_heading{
+    font-weight: bold;
+    padding: 1rem 0;
+}
+
+.container_list li:hover{
+    cursor: pointer;
+    color: rgb(24, 167, 211);
+}
+
+.footer__section h1{
+    text-align: center;
+    color: red;
+}
+
+.footer__section{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    align-items: center;
+    text-align: center;
+    padding-bottom: 3rem;
+    margin-bottom: 6rem;
+}
