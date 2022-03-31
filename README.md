@@ -1,12 +1,9 @@
-# Getting Started with Create React App
+# Visit the website : 
+https://book-my-hotel.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### GoogleAuth for login and logout : https://console.cloud.google.com/
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+### Or you can fork and install node modules and run `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
