@@ -4,8 +4,8 @@ import {gapi} from 'gapi-script';
 const AuthContext = createContext();
 
 export const useAuth =()=>useContext(AuthContext);
-
-const clientId= "459598229133-6repc7crj75rl29cmnvu5dmdepq70qbj.apps.googleusercontent.com";
+// AIzaSyAtlYIBQzsf_35FnhDk9LHsHDg3SGYSUe4
+const clientId= "897015532740-ab3t4eqqol8d5uab7iud3q1c4s55g7p9.apps.googleusercontent.com";
 
 export default function AuthProvider({children}){
     const [auth, setAuth]= useState(null);
