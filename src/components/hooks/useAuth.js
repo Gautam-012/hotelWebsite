@@ -1,11 +1,9 @@
 import React,{useEffect, createContext, useContext, useState} from "react";
 import {gapi} from 'gapi-script';
-import { SettingsInputAntennaTwoTone } from "@material-ui/icons";
  
 const AuthContext = createContext();
 
 export const useAuth =()=>useContext(AuthContext);
-
 
 const clientId= "459598229133-6repc7crj75rl29cmnvu5dmdepq70qbj.apps.googleusercontent.com";
 
