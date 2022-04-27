@@ -3,7 +3,7 @@ import Login from './Login';
 import Logout from './Logout';
 import "./index.css"
 import { useAuth } from './hooks/useAuth';
-
+//client ID is removed due to security issues.
 
 const Auth=()=>{
     
